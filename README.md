@@ -1,7 +1,7 @@
-# 👋 About Me:
-- Quantum physics grad
-- Interested in qinfo theory
+# ⚛️  About Me:
+- Quantum physics graduate
 - Contributing to open source projects
+- Irish
 
 
 ## 🌐 Socials:
