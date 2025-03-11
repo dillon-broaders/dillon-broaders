@@ -1,5 +1,6 @@
-# About Me:
-Quantum physics grad<br>Interested in open source projects
+# 👋 About Me:
+- Quantum physics grad
+- Interested in open source projects
 
 
 ## 🌐 Socials:
