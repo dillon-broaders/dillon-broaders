@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Quantum physics grad<br>Interested in open source projects
 
 
