@@ -1,4 +1,4 @@
-# 👋  Hi,... I'm Dillon
+# 👋 Hi
 
 
 # ⚛️  About Me:
