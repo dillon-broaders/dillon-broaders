@@ -1,6 +1,7 @@
 # 👋 About Me:
 - Quantum physics grad
-- Interested in open source projects
+- Interested in qinfo theory
+- Contributing to open source projects
 
 
 ## 🌐 Socials:
