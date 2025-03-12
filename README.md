@@ -2,7 +2,7 @@
 
 
 # ⚛️  About Me:
-- Quantum physics graduate
+- Quantum physics grad
 - Contributing to open source projects
 - Irish
 
