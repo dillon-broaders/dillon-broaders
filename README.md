@@ -13,6 +13,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dillon-broaders&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api?username=dillon-broaders&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dillon-broaders&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dillon-broaders/dillon-broaders/output/github-contribution-grid-snake-dark.svg">
@@ -20,9 +23,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dillon-broaders/dillon-broaders/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dillon-broaders&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
