@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi...
 
 # <img src="https://media.giphy.com/media/O6nT9DSoiUVYQ/giphy.gif" width="40px"> About Me:
-- Quantum physics grad
+- Quantum physics graduate
 - Hoping to contribute to open source projects
 - Looking for computational physics roles
 
